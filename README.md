@@ -1,6 +1,6 @@
 # 8plus2
 
-Marketing site for **8plus2 Omnitech (OPC) Pvt Ltd** — makers of Turrigan (AI governance) and Sentinel PMO (project assurance).
+Marketing site for **8plus2 Omnitech (OPC) Pvt Ltd** — makers of Turrigan (AI governance) and BerryPM (intelligent project management).
 
 Live at [8plus2.co.in](https://8plus2.co.in).
 
